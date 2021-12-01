@@ -1,2 +1,4 @@
 # MAXIMUS-X-HERO
 M10H-EFI
+main:10.13 10.15 11.4
+tag:12.1beta
